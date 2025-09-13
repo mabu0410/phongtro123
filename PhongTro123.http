@@ -1,0 +1,6 @@
+@PhongTro123_HostAddress = http://localhost:5201
+
+GET {{PhongTro123_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
